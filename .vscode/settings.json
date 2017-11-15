@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "C:\\Anaconda2\\envs\\CameraCalib\\python.exe",
+    "python.autoComplete.extraPaths": [
+        "C:\\Anaconda2\\envs\\CameraCalib\\lib",
+        "C:\\Anaconda2\\envs\\CameraCalib\\lib\\site-packages"
+    ],
+    "python.linting.pylintArgs": [
+        "--extension-pkg-whitelist=numpy"
+    ]
+}
